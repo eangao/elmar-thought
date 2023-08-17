@@ -1,0 +1,2 @@
+# elmar-thought
+Django project
